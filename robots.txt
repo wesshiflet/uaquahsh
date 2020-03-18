@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kueliemata.euroglobal-auditors.com/sitemap.xml
